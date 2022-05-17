@@ -1,3 +1,11 @@
+# Bugdet
+React.js application that implements hooks (such as useState, useRef, useContext) and is styled with Bootstraps
+
+## Screen Grabs
+![Main](./public/images/main.png)
+![new-expense](./public/images/new-expense.png)
+![view-expense](./public/images/view-expense.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
